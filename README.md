@@ -1,24 +1,4 @@
-@ -3,46 +3,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        * {
-    margin: 0px;
-    padding: 0px;
-}
-
-body {
-    background-color: rgb(44, 43, 47);
-    text-align: center;
-}
-
-main {
-    text-align: center;
+@@ -23,38 +23,43 @@
     margin: auto;
 }
 
@@ -50,3 +30,14 @@ a:hover {
 }
     </style>
 </head>
+<body>
+    <main>
+        <ul>
+            <li><a href="Criacoes/" target="_blank" rel="next">Criações</a></li>
+            <li><a href="Estudos/" target="_blank" rel="next">Estudos</a></li>
+            <li><a href="Trabalhos/" target="_blank" rel-="next">Trabalhos</a></li>
+            <li><a href="Treinamento/" target="_blank" ral="next">Treinamento</a></li>
+        </ul>
+    </main>
+</body>
+</html>
