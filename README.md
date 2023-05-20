@@ -1,3 +1,3 @@
 # Estudos
  
-<a href="Criações/S">CriaçõesS</a>
+<a href="Criações/">Criações</a>
