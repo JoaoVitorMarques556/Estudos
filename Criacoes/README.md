@@ -1,3 +1,3 @@
 # Criações
  
-<a href="Preto & Branco/index.html" target="_blank" rel="next">Preto & Branco</a>
+<a href="Preto & Branco/index.html" rel="next">Preto & Branco</a>
