@@ -23,6 +23,11 @@ main {
     margin: auto;
 }
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
 ul{
     padding: 30px;
     margin: 20px;
