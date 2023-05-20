@@ -1,3 +1,3 @@
 # Estudos
  
-<a href="Criações/" rel="next">Criações</a>
+<a href="Criações/" target="_blank" rel="next">Criações</a>
