@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
 
 * {
     margin: 0px;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Josefin Sans';
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
@@ -32,209 +32,13 @@ body {
 
 .listra {
     display: inline-block;
+    margin: auto;
     width: 400px;
     height: 5px;
     background-color: white;
     margin-bottom: 80px;
 }
 
-main .initial {
-    display: inline-block;
-    background-image: url(../img/fundo2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    width: 100%;
-    max-height: 660px;
-    background-attachment: fixed;
-}
-
-.initial img {
-    margin: auto;
-    padding: 20px;
-    max-width: 400px;
-}
-
-.initial  p {
-    padding: 20px 60px;
-    margin: auto;
-    color: rgb(196, 196, 196);
-    background-color: rgb(0, 0, 0);
-    max-width: 100%;
-}
-
-.quite {
-    text-align: center;
-}
-
-.quite h2 {
-    display: inline-block;
-    padding: 10px 20px 10px 20px;
-    margin-top: 20px;
-    background-color: black;
-    color: white;
-}
-
-.quite p {
-    color: rgb(0, 0, 0);
-    padding: 20px 40px 20px 40px;
-    margin: auto;
-    max-width: 950px;
-
-}
-
-.quite img {
-    max-width: 400px;
-    display: inline-block;
-    background-color: black;
-    padding: 40px;
-}
-
-.section {
-    background-color: black;
-}
-
-.section span {
-    align-items: center;
-    text-align: center;
-    display: inline-flex;
-}
-
-.section span {
-    color: white;
-    max-width: 800px;
-}
-
-.section  p {
-    color: white;
-    padding: 20px;
-}
-
-.section span img {
-    max-width: 400px;
-    padding: 20px;
-}
-
-.finale {
-    display: inline-block;
-    max-width: 800px;
-}
-
-.finale span {
-    text-align: center;
-    display: flex;
-    padding: 20px 20px 20px 10px;
-}
-
-.finale span p {
-    max-width: 400px;
-    margin: auto;
-}
-
-.finale span ul {
-    background-color: black;
-    padding: 25px;
-    margin: 15px;
-}
-
-.finale span ul li {
-    color: white;
-}
-
-.finale p {
-    padding-bottom: 20px;
-}
-
-footer {
-    background-color: black;
-}
-
-footer p {
-    color: white;
-    padding: 20px;
-}
-
-@media (max-width: 810px) {
-    .initial p {
-        font-size: 0.9em;
-        padding: 30px 20px 30px 20px;
-    }
-
-    .initial img {
-        width: 350px;
-    }
-
-    .quite p {
-        font-size: 0.9em;
-        padding: 30px 20px 30px 20px;
-    }
-
-    .quite img {
-        width: 340px;
-        padding: 20px;
-    }
-
-    .section span p {
-        margin: auto;
-        width: 200px;
-        padding-left: 10px;
-    }
-
-    .section span img {
-        width: 350px;
-    }
-}
-
-@media (max-width: 630px) {
-    .section span {
-        display: inline-block;
-    }
-
-    .section span p {
-        padding: 0px;
-    }
-}
-
-@media (max-width: 490px) {
-
-    p {
-        font-size: 0.9em;
-    }
-
-    .header h1 {
-        font-size: 1.5em;
-        padding-top: 40px;
-    }
-
-    .listra {
-        width: 240px;
-        margin-bottom: 40px;
-    }
-
-    .initial p {
-        font-size: 0.9em;
-        padding: 30px 20px 30px 20px;
-    }
-
-    .initial img {
-        width: 250px;
-    }
-
-    .quite p {
-        font-size: 0.9em;
-        padding: 30px 20px 30px 20px;
-    }
-
-    .quite img {
-        width: 230px;
-        padding: 20px;
-    }
-
-    .section span img {
-        width: 280px;
-    }
-}
-/*
 main div {
     background-image: url('../img/fundo2.png');
     height: 400px;
@@ -407,4 +211,4 @@ footer p {
     .section .meio img {
         width: 350px;
         }
-} */
+}
