@@ -1,7 +1,5 @@
 # Estudos
 
-<!DOCTYPE html>
-
 <body style="background-color: rgb(44, 43, 47);">
     <main>
         <ul style="backgroung-color: rgb(76, 76, 77); padding: 30px; margin: 20px;">
