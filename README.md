@@ -1,4 +1,24 @@
-@@ -23,38 +23,43 @@
+@@ -3,58 +3,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(44, 43, 47);
+    text-align: center;
+}
+
+main {
+    text-align: center;
     margin: auto;
 }
 
