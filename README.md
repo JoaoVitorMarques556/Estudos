@@ -23,10 +23,6 @@ main {
     margin: auto;
 }
 
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 ul{
     padding: 30px;
     margin: 20px;
@@ -52,7 +48,6 @@ a:hover {
 </head>
 <body>
     <main>
-        <h1>Repositorio de Estudos</h1>
         <ul>
             <li><a href="Criacoes/" target="_blank" rel="next">Criações</a></li>
             <li><a href="Estudos/" target="_blank" rel="next">Estudos</a></li>
