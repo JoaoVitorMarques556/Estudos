@@ -1,3 +1,4 @@
 # Estudos
- <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+
 <a href="Criacoes/" target="_blank" rel="next">Criações</a>
+<a href="Estudos/" target="_blank" rel="next">Estudos</a>
