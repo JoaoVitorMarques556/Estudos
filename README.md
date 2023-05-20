@@ -1,6 +1,6 @@
 # Estudos
 
-<body style="background-color: black;">
+<body style="background-color: rgb(108, 108, 108);">
     <a href="Criacoes/" target="_blank" rel="next">Criações</a>
     <br>
     <a href="Estudos/" target="_blank" rel="next">Estudos</a>
